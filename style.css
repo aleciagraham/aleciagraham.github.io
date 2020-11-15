@@ -1,0 +1,335 @@
+
+
+body {
+  background-color: rgb(227, 226, 226);
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light{
+
+}
+
+
+.navbar-brand{
+ background-color: rgb(20, 180, 164); 
+f
+}
+
+#button{
+  color:white;
+
+}
+
+
+
+
+.navbar-default{
+  background-color: rgb(20, 180, 164);
+  color: darkslategrey
+}
+
+
+.collapse navbar-collapse{
+    background-color: rgb(20, 180, 164);
+    color: white;
+}
+
+
+.container{
+  background-color: white;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: 100;
+  color: seagreen;
+  text-align: left;
+  
+}
+  
+
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 100;
+  color: seagreen;
+  text-align: left;
+  margin-top: 50px;
+  
+}
+
+
+h3{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 100;
+  color: seagreen;
+
+}
+ 
+
+
+
+h4{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 100;
+  color: seagreen;
+
+}
+.comparison-data{
+
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-weight: 100;
+  color: seagreen;
+  text-align: left;
+  
+}
+
+h5{
+  font-family: 'Times New Roman', Times, bold;
+  font-size: 40px;
+  font-weight: 210;
+  color: seagreen;
+  text-align: left; 
+  padding: 5px;
+  margin-top: 5px;
+  margin-left: 4px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  align-content: left;
+  /* position: relative; */
+}
+
+
+
+
+
+
+h6{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 100;
+  color: seagreen;
+  text-align: left;
+}
+
+#summation{
+
+    align-content: center;
+    padding: 20px;
+    background: white;
+    position: relative;
+    margin-top: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;   
+}
+
+
+
+.box1{
+  background: white;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  align-content: left;
+  position: relative;
+   
+}
+
+
+.box2{
+  background: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 30px;
+  align-content: center;
+  position: relative;
+
+}
+
+
+
+.container3{
+ /* background-color: white; */
+ padding: 20px;
+ margin-top: 30px;
+ margin-left: 5px;
+ margin-right: 5px;
+ margin-bottom: 60px;
+ align-content: center;
+ position: relative;
+
+
+
+
+}
+.box3{
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 60px;
+  align-content: center;
+  position: relative;
+ 
+}
+
+.container4{
+  
+  background-color: white;
+
+}
+
+.summary_images{
+    margin-bottom: 40px;
+    margin-left: 0px;
+  
+  }
+  
+
+ 
+.comparison-main{
+  background: white;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  align-content: left;
+  position: relative;
+
+}
+
+.col-sm-5 col-md-6{
+  background: white;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  /* align-content: left; */
+  position: absolute;
+  
+}
+
+.figure_images{
+  /* position: relative; */
+  height:550px;
+  width: 550px;
+  /* align-content: center; */
+}
+
+#temperature-summation{
+  float: left;
+  width: 301px;
+  align-content: center;
+}
+
+
+
+
+#temperature-summation2{
+
+  top: 0;
+  right: 0;
+  height: 450px;
+  width: 650px;
+
+
+}
+
+#temperature{
+  position: center;
+  top: 0;
+  left: 0;
+  height: 150px;
+  width: 150px;
+  border: 3px solid white;
+}
+
+
+
+
+#humidity{
+  /* position: absolute; */
+  top: 0;
+  right: 0;
+  height: 150px;
+  width: 150px;
+  border: 3px solid white;
+}
+
+#humidity2{
+
+  top: 0;
+  right: 0;
+  height: 450px;
+  width: 650px;
+  border-right-color: 3px solid gainsboro;
+
+}
+
+#cloudiness{
+  /* position: absolute; */
+  bottom: 0;
+  left: 0;
+  height: 150px;
+  width: 150px;
+  border: 3px solid white;
+}
+
+
+
+#cloudiness2{
+
+  top: 0;
+  right: 0;
+  height: 450px;
+  width: 650px;
+
+
+}
+
+#wind{
+  /* position: absolute; */
+  bottom: 0;
+  right: 0;
+  height: 150px;
+  width: 150px;
+  border: 3px solid white;
+}
+
+#wind2{
+
+  top: 0;
+  right: 0;
+  height: 450px;
+  width: 650px;
+
+
+}
+.col-sm-5 col-md-4"{
+
+ 
+  height: 450px;
+  width: 350px;
+
+
+}
